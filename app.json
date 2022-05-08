@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/jhfds34/camille",
+  "repository": "https://github.com/jhfds34/camille",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
